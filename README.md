@@ -1,8 +1,42 @@
-# React + Vite
+# Nike Shop | React App | Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Technologies
 
-Currently, two official plugins are available:
+- React : frontend for user interface.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- react with Vite : A build tool that aims to provide a faster and leaner development experience for modern web projects.
+
+- Tailwind CSS : A utility-first CSS framework packed with classes like flex, pt-4, text-center and more to help you build custom designs without ever leaving your HTML.
+
+## Installation
+
+1. Clone the repo
+
+```
+git clone https://github.com/YOUR_GITHUB_USERNAME/Nike Shop.git
+cd Nike Shop
+```
+
+2. Install all dependencies
+
+```
+npm install
+```
+
+3. Start development Server using following Commands
+
+```
+npm run dev
+```
+
+## Screenshorts
+
+## Contributions
+
+## License
+
+This project is under MIT LICENSE
+
+## Author
+
+Nikhil Borse
